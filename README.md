@@ -330,5 +330,3 @@ If you want:
 * A **deep technical breakdown** of the 165-byte trick
 * A **post-mortem** of DOGX / KINU
 * Or a **next-gen Doginals minting tool**
-
-👉 just say the word.
