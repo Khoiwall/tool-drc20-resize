@@ -1,14 +1,22 @@
-node_modules
+# dependencies
+node_modules/
 
+# env & wallet
 .env
 .wallet.json
 
-test.js
-update.js
-a.js
-address.js
-cal-tap.js
-cal.js
-check-fee-mint.js
+# logs
+*.log
 
-wallet
+# temp / test files
+test.js
+a.js
+update.js
+cal.js
+cal-tap.js
+check-fee-mint.js
+address.js
+
+# OS
+.DS_Store
+Thumbs.db
