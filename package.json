@@ -1,0 +1,23 @@
+{
+  "name": "doginals",
+  "version": "1.0.0",
+  "description": "A minter and protocol for inscriptions on Dogecoin",
+  "main": "doginals.js",
+  "author": "apezord",
+  "license": "MIT",
+  "bin": {
+    "doginals": "doginals.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "github:supabase/supabase-js",
+    "axios": "^1.3.4",
+    "belcoinjs-lib": "^0.1.3",
+    "bells-inscriber": "^0.2.7",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "bitcore-lib-doge": "^8.25.46",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mime-types": "^2.1.35"
+  }
+}
